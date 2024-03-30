@@ -1,5 +1,5 @@
 {
-  "name": "millow",
+  "name": "peelow",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -36,8 +36,9 @@
     ]
   },
   "devDependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
     "@openzeppelin/contracts": "^4.7.3",
+    "dotenv": "^16.4.5",
     "hardhat": "^2.12.0"
   }
 }

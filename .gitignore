@@ -4,7 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
-
+/public
+/src
 # testing
 /coverage
 
@@ -44,4 +45,5 @@ typechain-types
 #Hardhat files
 cache
 artifacts
+gas-report.txt
 
